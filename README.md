@@ -16,7 +16,7 @@ Changing the subscription pricing will increase conversion rate without signific
 ## Results
 - Conversion: 11.9% → 13.9% (+2.1pp, significant)
 - Retention: decreased by ~2pp, but the difference was not statistically significant (p > 0.05)
-- Overall retained users increased
+- Overall retained users increased, indicating a net positive impact of the treatment
 - Cohort analysis showed consistent retention patterns across signup periods
 
 ## Conclusion
