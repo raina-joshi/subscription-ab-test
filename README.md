@@ -7,8 +7,7 @@ Evaluate whether a pricing change improves conversion without negatively impacti
 ## Approach
 - Simulated A/B test (control vs treatment)
 - Measured conversion and retention
-- Applied statistical testing
-- Includes statistical testing (z-test for proportions)
+- Applied statistical testing (z-test for proportions)
 
 ## Results
 - Conversion: 11.9% → 13.9% (+2.1pp, significant)
