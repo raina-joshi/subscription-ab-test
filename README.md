@@ -16,7 +16,11 @@ Evaluate whether a pricing change improves conversion without negatively impacti
 - Cohort analysis showed consistent retention patterns across signup periods
 
 ## Conclusion
-Pricing change improves conversion with no strong negative impact on retention.
+The treatment increased conversion from 11.9% to 13.9% (+2.1pp), and this uplift was statistically significant (p < 0.05).
+
+Retention decreased slightly by ~2pp, but the result was not statistically significant (p > 0.05), indicating no strong evidence of negative impact.
+
+Overall, the treatment resulted in a higher number of retained users, suggesting a net positive effect.
 
 ## Recommendation
-Roll out treatment and monitor retention long-term.
+Roll out the pricing change while continuing to monitor retention over time to ensure no long-term negative impact.
