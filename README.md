@@ -4,6 +4,9 @@ A/B test simulation analyzing pricing impact on conversion and retention using P
 ## Objective
 Evaluate whether a pricing change improves conversion without negatively impacting retention.
 
+## Hypothesis
+Changing the subscription pricing will increase conversion rate without significantly reducing retention.
+
 ## Approach
 - Simulated A/B test (control vs treatment)
 - Measured conversion and retention
