@@ -13,6 +13,7 @@ Evaluate whether a pricing change improves conversion without negatively impacti
 - Conversion: 11.9% → 13.9% (+2.1pp, significant)
 - Retention: there's a slight decrease but was not statistically significant (p > 0.05)
 - Overall retained users increased
+- Cohort analysis showed consistent retention patterns across signup periods
 
 ## Conclusion
 Pricing change improves conversion with no strong negative impact on retention.
